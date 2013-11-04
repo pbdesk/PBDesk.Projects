@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>jQuery.BootStrap.FontAwesome</id>
+        <version>1.0.0</version>
+        <title>jQuery.BootStrap.FontAwesome Combined</title>
+        <authors>Pinal Bhatt[PBDesk.com]</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>jQuery.BootStrap.FontAwesome Combined. (Includes original and minified bundled  jQuery.2.0.3, bootstrap.3.0.1 &amp; FontAwesome.4.0.1 )</description>
+        <summary>jQuery.BootStrap.FontAwesome Combined. (Includes original and minified bundled  jQuery.2.0.3, bootstrap.3.0.1 &amp; FontAwesome.4.0.1 )</summary>
+        <releaseNotes>Includes original and minified bundled  jQuery.2.0.3, bootstrap.3.0.1 &amp; FontAwesome.4.0.1</releaseNotes>
+    </metadata>
+    <files>
+        <file src="prep\Content\Content\bootstrap-theme.css" target="content\Content\Content\bootstrap-theme.css" />
+        <file src="prep\Content\Content\bootstrap-theme.min.css" target="content\Content\Content\bootstrap-theme.min.css" />
+        <file src="prep\Content\Content\bootstrap.css" target="content\Content\Content\bootstrap.css" />
+        <file src="prep\Content\Content\bootstrap.font-awesome.css" target="content\Content\Content\bootstrap.font-awesome.css" />
+        <file src="prep\Content\Content\bootstrap.font-awesome.min.css" target="content\Content\Content\bootstrap.font-awesome.min.css" />
+        <file src="prep\Content\Content\bootstrap.min.css" target="content\Content\Content\bootstrap.min.css" />
+        <file src="prep\Content\Content\font-awesome.css" target="content\Content\Content\font-awesome.css" />
+        <file src="prep\Content\Content\font-awesome.min.css" target="content\Content\Content\font-awesome.min.css" />
+        <file src="prep\Content\fonts\fontawesome-webfont.eot" target="content\Content\fonts\fontawesome-webfont.eot" />
+        <file src="prep\Content\fonts\fontawesome-webfont.svg" target="content\Content\fonts\fontawesome-webfont.svg" />
+        <file src="prep\Content\fonts\fontawesome-webfont.ttf" target="content\Content\fonts\fontawesome-webfont.ttf" />
+        <file src="prep\Content\fonts\fontawesome-webfont.woff" target="content\Content\fonts\fontawesome-webfont.woff" />
+        <file src="prep\Content\fonts\FontAwesome.otf" target="content\Content\fonts\FontAwesome.otf" />
+        <file src="prep\Content\fonts\glyphicons-halflings-regular.eot" target="content\Content\fonts\glyphicons-halflings-regular.eot" />
+        <file src="prep\Content\fonts\glyphicons-halflings-regular.svg" target="content\Content\fonts\glyphicons-halflings-regular.svg" />
+        <file src="prep\Content\fonts\glyphicons-halflings-regular.ttf" target="content\Content\fonts\glyphicons-halflings-regular.ttf" />
+        <file src="prep\Content\fonts\glyphicons-halflings-regular.woff" target="content\Content\fonts\glyphicons-halflings-regular.woff" />
+        <file src="prep\Content\Scripts\bootstrap.js" target="content\Content\Scripts\bootstrap.js" />
+        <file src="prep\Content\Scripts\bootstrap.min.js" target="content\Content\Scripts\bootstrap.min.js" />
+        <file src="prep\Content\Scripts\jquery-2.0.3-vsdoc.js" target="content\Content\Scripts\jquery-2.0.3-vsdoc.js" />
+        <file src="prep\Content\Scripts\jquery-2.0.3.js" target="content\Content\Scripts\jquery-2.0.3.js" />
+        <file src="prep\Content\Scripts\jquery-2.0.3.min.js" target="content\Content\Scripts\jquery-2.0.3.min.js" />
+        <file src="prep\Content\Scripts\jquery-2.0.3.min.map" target="content\Content\Scripts\jquery-2.0.3.min.map" />
+        <file src="prep\Content\Scripts\jQuery.Bootstrap.js" target="content\Content\Scripts\jQuery.Bootstrap.js" />
+        <file src="prep\Content\Scripts\jQuery.Bootstrap.min.js" target="content\Content\Scripts\jQuery.Bootstrap.min.js" />
+        <file src="prep\Content\Scripts\jQuery.Bootstrap.min.js.map" target="content\Content\Scripts\jQuery.Bootstrap.min.js.map" />
+    </files>
+</package>
